@@ -1,0 +1,19 @@
+.numero1, .numero3, #numero5 { 
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#numero2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.numero3 {
+    font-size: 24px;
+}
+
+#numero4 {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
